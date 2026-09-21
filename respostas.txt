@@ -1,0 +1,40 @@
+ATIVIDADE - IDH DOS ESTADOS
+
+3. Estados ordenados pelo maior IDH em 2024:
+             Estado Sigla  2024
+   Distrito Federal    DF 0.866
+          São Paulo    SP 0.838
+     Santa Catarina    SC 0.833
+             Paraná    PR 0.822
+     Rio de Janeiro    RJ 0.819
+  Rio Grande do Sul    RS 0.818
+              Goiás    GO 0.815
+        Mato Grosso    MT 0.812
+       Minas Gerais    MG 0.809
+     Espírito Santo    ES 0.804
+          Tocantins    TO 0.797
+ Mato Grosso do Sul    MS 0.797
+           Rondônia    RO 0.786
+            Roraima    RR 0.780
+Rio Grande do Norte    RN 0.778
+              Ceará    CE 0.773
+           Amazonas    AM 0.767
+         Pernambuco    PE 0.767
+              Piauí    PI 0.764
+            Sergipe    SE 0.761
+            Paraíba    PB 0.760
+              Bahia    BA 0.759
+              Amapá    AP 0.759
+               Pará    PA 0.758
+               Acre    AC 0.754
+            Alagoas    AL 0.746
+           Maranhão    MA 0.745
+
+4. Estado com maior melhora entre 1991 e 2024:
+Tocantins (TO)
+1991: 0.369
+2024: 0.797
+Melhora: 0.428
+
+5. Existe algum estado em que o IDH piorou?
+Não. Nenhum estado apresentou IDH menor em 2024 do que em 1991.
